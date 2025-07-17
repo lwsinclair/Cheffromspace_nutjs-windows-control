@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-cheffromspace-nutjs-windows-control-badge.png)](https://mseep.ai/app/mcp-mirror-cheffromspace-nutjs-windows-control)
+
 # NutJS Windows Control
 
 A Windows control server built using [nut.js](https://nutjs.dev/) and Model Context Protocol (MCP), providing programmatic control over Windows system operations including mouse, keyboard, window management, and screen capture functionality.
